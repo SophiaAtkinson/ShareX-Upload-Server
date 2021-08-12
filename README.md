@@ -1,5 +1,5 @@
 # ShareX-Upload-Server
-ShareX by Tanner Reynolds but windows ready.
+[ShareX](https://github.com/TannerReynolds/ShareX-Upload-Server) by Tanner Reynolds but windows ready.
 
 
 ## What did I change?
