@@ -8,6 +8,6 @@ All that I did to the source code was remove everything exept src and package.js
 
 
 # How to install?
-First thing you need is Node.js
+The first thing you need is Node.js
 Then download this, cd into the folder, do npm install, then you can do node index.js.
-Then you are done, you can ajust all the settings in config.json!
+Then you are done, you can adjust all the settings in config.json!
