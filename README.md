@@ -13,5 +13,3 @@ The first thing you need is Node.js
 Then download this,run the ShareX.exe extract it then cd into the folder, do npm install, then you can do node index.js.
 
 Then you are done, you can adjust all the settings in config.json!
-
-# BTW the .EXE is a winrar SFX archive.
